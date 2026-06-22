@@ -1,9 +1,6 @@
 # AI Edge Data Processing Pipeline
 
-## B.Tech Semester II — Data Structures & Algorithms Final Project
-
-
-**Author:** Harsh Kumar
+## B.Tech Semester II — Data Structures & Algorithms
 
 ---
 
