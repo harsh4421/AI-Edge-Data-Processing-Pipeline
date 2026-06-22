@@ -604,16 +604,8 @@ The system improves data quality, supports anomaly detection, and enables effici
 ---
 
 **Harsh Kumar**
+
 B.Tech Computer Science & Engineering  
 ITM Skills University, Kharghar  
 Semester II – Data Structures & Algorithms
 
-### Technologies Used
-
-- C++
-- Data Structures & Algorithms
-- IoT Concepts
-- Edge Computing
-- Console-Based Application
-
----
