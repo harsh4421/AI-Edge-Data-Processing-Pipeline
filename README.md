@@ -4,6 +4,10 @@
 
 ---
 
+**Author:** Harsh Kumar
+
+---
+
 # Table of Contents
 
 1. Project Title
