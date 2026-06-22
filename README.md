@@ -603,10 +603,7 @@ The system improves data quality, supports anomaly detection, and enables effici
 
 ---
 
-# 14. Author
-
 **Harsh Kumar**
-
 B.Tech Computer Science & Engineering  
 ITM Skills University, Kharghar  
 Semester II – Data Structures & Algorithms
