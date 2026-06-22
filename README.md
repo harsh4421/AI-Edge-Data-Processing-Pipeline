@@ -543,37 +543,20 @@ Value: 102.5
 
 # 10. Screenshots
 
-Add screenshots for:
 
-### Screenshot 1
+<img width="527" height="312" alt="Screenshot 2026-06-22 at 10 52 38 AM" src="https://github.com/user-attachments/assets/cc47871b-e996-4600-a90b-7f4f3bc37d42" />
 
-Application Startup
+<img width="610" height="651" alt="Screenshot 2026-06-22 at 10 53 10 AM" src="https://github.com/user-attachments/assets/0f448a05-f0e7-472f-aa7e-64c852547ac2" />
 
-### Screenshot 2
+<img width="506" height="389" alt="Screenshot 2026-06-22 at 10 53 35 AM" src="https://github.com/user-attachments/assets/27703a00-2348-4548-aeb1-bd8104ac1624" />
 
-Sample Data Loading
+<img width="600" height="202" alt="Screenshot 2026-06-22 at 10 54 01 AM" src="https://github.com/user-attachments/assets/200966c0-72e6-4455-ab23-cad331b2b57f" />
 
-### Screenshot 3
+<img width="365" height="266" alt="Screenshot 2026-06-22 at 10 54 22 AM" src="https://github.com/user-attachments/assets/dcd53f8c-c703-46a6-a881-197f4c0c3df9" />
 
-Current Buffer Display
 
-### Screenshot 4
 
-Noise Filtering
 
-### Screenshot 5
-
-Feature Selection
-
-### Screenshot 6
-
-Timestamp Search
-
-### Screenshot 7
-
-Anomaly Detection
-
----
 
 # 11. Results and Observations
 
